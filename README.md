@@ -15,17 +15,18 @@
 
 📝Strong communication, organizational, and analytical skills.
 
-☺️ Areas of interest: 
-⚛️Data Science,<p></p>
-🤖 Machine Learning,<p></p>
-📊 Business Analytics, <p></p>
-🧠 Deep Learning,<p></p>
-💾 Big Data,<p></p>
-☠️Pestesting and 🔐Cyber Security🛡️. 
+☺️ Areas of interest: <br>
+⚛️ Data Science, <br>
+🤖 Machine Learning, <br>
+📊 Business Analytics, <br>
+🧠 Deep Learning, <br>
+💾 Big Data, <br>
+☠️ Pestesting and 🔐Cyber Security🛡️. 
 <p></p>
-📫 Contacto: **datascience.arom@gmail.com**
+📫 Contacto: **datascience.arom@gmail.com** <br>
 <!--Intro end-->
-  </p>
+</p>
+
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
