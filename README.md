@@ -16,6 +16,7 @@
 📝Strong communication, organizational, and analytical skills.
 
 ☺️ Areas of interest: 
+<p></p>
 ⚛️ Data Science, <br>
 🤖 Machine Learning, <br>
 📊 Business Analytics, <br>
