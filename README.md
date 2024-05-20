@@ -33,13 +33,13 @@
 💾 Big Data, <br>
 ☠️ Pestesting and 🔐Cyber Security🛡️. 
 <p></p>
-📫 Contacto: **datascience.arom@gmail.com** <br>
+📫 Contacto: datascience.arom@gmail.com<br>
 <!--Intro end-->
 </p>
 
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -61,8 +61,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My working tools
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
