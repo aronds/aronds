@@ -7,7 +7,7 @@
 <a href = "mailto:datascience.arom@gmail.com" target="blank">
 <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@aronds"  />
 </a>
-<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<a href="https://twitter.com/DataScienceArom" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter/>
 </a>
 
@@ -52,9 +52,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/aronds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aronds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--- stats (end) -->
