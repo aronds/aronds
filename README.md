@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋 I'm Arom  ✨ </h1> 
 
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aronds"/></a>
-<a href = "mailto:datascience.arom@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@aronds"  /></a>
+<p align="center">
+<a href="" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aronds"/>
+</a>
+<a href = "mailto:datascience.arom@gmail.com" target="blank">
+<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@aronds"  />
+</a>
+<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter/>
+</a>
+
 </p>
 <br>
 <h2>About mi 😃</h2>
@@ -16,6 +24,7 @@
 📝Strong communication, organizational, and analytical skills.
 
 ☺️ Areas of interest: 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p></p>
 ⚛️ Data Science, <br>
 🤖 Machine Learning, <br>
@@ -42,10 +51,10 @@
 <h2>GitHub :octocat:</h2>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/aronds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aronds&layout=compact&langs_count=8&theme=algolia"/>
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--- stats (end) -->
@@ -73,7 +82,4 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
+
