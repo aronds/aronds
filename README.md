@@ -49,7 +49,7 @@
 <br>
 
 <h2>GitHub :octocat:</h2>
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/aronds">
