@@ -23,7 +23,7 @@
 
 📝Strong communication, organizational, and analytical skills.
 
-☺️ Areas of interest: 
+Areas of interest: 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p></p>
 ⚛️ Data Science, <br>
