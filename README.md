@@ -38,29 +38,27 @@ Areas of interest:
 </p>
 
 <br>
+<h2>⚙️ Git-Hub :octocat:</h2>
 
-<h2 >Tecnologías conocidas</h2>
+<p align="left">
+<a href="https://github.com/aronds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aronds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<h2 ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">My working tools</h2>
 <!--tech stack icons-->
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,py,r,java,pytorch,html,d3,css,js,mysql,sqlite,postgres,git,github,vscode,md,kali&perline=12" />
   </a>
 </p>
 <br>
-
-<h2>GitHub :octocat:</h2>
-⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/aronds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aronds&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 <!--- stats (end) -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; My working tools
+<h2>
+</h2>
 <p align="left">
-  
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
