@@ -80,19 +80,3 @@ Areas of interest:
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
 
-
-| Java | Spyder | Jupyter | .NET | HTML5 |
-|------|--------|---------|------|-------|
-| ![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg) | ![Spyder](https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg) | ![Jupyter](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg) | ![.NET](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg) | ![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg) |
-
-| MySQL | SQLite | Matplotlib | Pandas | Flask |
-|-------|--------|------------|--------|-------|
-| ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg) | ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg) | ![Matplotlib](https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png) | ![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png) | ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg) |
-
-| Heroku | NumPy | SciPy | React | Laravel |
-|--------|-------|-------|-------|---------|
-| ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg) | ![NumPy](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg) | ![SciPy](https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg) | ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg) | ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg) |
-
-| JavaScript | Netlify | scikit-learn | TensorFlow |
-|------------|---------|--------------|------------|
-| ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg) | ![Netlify](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg) | ![scikit-learn](https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png) | ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg) |
