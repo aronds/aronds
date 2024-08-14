@@ -17,7 +17,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Entry-level Data Analytics Professional
+🎓 Data Analytics Professional
 
 📚 Excellent understanding and proficiency of platforms for effective data analyses, including SQL, Sheets and Excel, Tableau, 💻 R and Python. 
 
