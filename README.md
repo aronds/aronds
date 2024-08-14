@@ -19,7 +19,7 @@
 <p align="left">
 🎓 Data Analytics Professional
 
-📚 Excellent understanding and proficiency of platforms for effective data analyses, including SQL, Sheets and Excel, Tableau, 💻 R and Python. 
+📚 Excellent understanding and proficiency of platforms for effective data analyses, including SQL📈, Sheets and Excel🗂️, Tableau📊,  R 💻and Python🐍. 
 
 📝Strong communication, organizational, and analytical skills.
 
