@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Arom </h1> 
 
 <p align="center">
-<a href="" target="blank">
-<img src="https://www.linkedin.com/in/nelsonantinao/" alt=""/>
+<a href="https://www.linkedin.com/in/nelsonantinao/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
 </a>
 <a href = "mailto:datascience.arom@gmail.com" target="blank">
 <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@aronds"  />
