@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="" target="blank">
-<img src="https://www.linkedin.com/in/nelsonantinao/" alt="aronds"/>
+<img src="https://www.linkedin.com/in/nelsonantinao/" alt=""/>
 </a>
 <a href = "mailto:datascience.arom@gmail.com" target="blank">
 <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@aronds"  />
